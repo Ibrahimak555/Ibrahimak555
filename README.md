@@ -1,6 +1,4 @@
-<h1 align='center'>Ibrahim Ahmed Khan</h1>
-![IAK_Banner](https://github.com/Ibrahimak555/Ibrahimak555/assets/78961240/1707f936-e2f2-4672-9d98-b4252dc98540)
-
+<a href="https://imgur.com/R53oqff"><img src="https://i.imgur.com/R53oqff.png" title="source: imgur.com" /></a>
 
 Hi 👋, this is Ibrahim Ahmed Khan currently a Computer science student at IIIT Kottayam.
 ---
@@ -19,15 +17,8 @@ Hi 👋, this is Ibrahim Ahmed Khan currently a Computer science student at IIIT
 <br>
 <p> 🎮Interest in Game development. </p>
 
-<!--
-**Ibrahimak555/Ibrahimak555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left"> 
+<a href="https://www.linkedin.com/in/ibrahimahmedkhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Image Not Found" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ibrahimakhan555/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Image Not Found" height="30" width="40" /></a>
+</p>
