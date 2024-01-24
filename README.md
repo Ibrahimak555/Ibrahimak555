@@ -1,9 +1,9 @@
 <a href="https://imgur.com/R53oqff"><img src="https://i.imgur.com/R53oqff.png" title="source: imgur.com" /></a>
 
-Hi 👋, this is Ibrahim Ahmed Khan currently a Computer science student at IIIT Kottayam.
+Hi 👋, this is Ibrahim Ahmed Khan a Computer Science student at IIIT Kottayam.
 ---
 
-<h3 align='center'>I am a Machine learning and Deep learning enthusiast</h3> <br>
+<h3 align='center'>I am a Machine learning and Deep learning enthusiast.</h3> <br>
 
 <b> My Completed Projects are: </b>
   
